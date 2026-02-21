@@ -56,7 +56,6 @@ public class mahasiswaKonstruktor {
         mhs1.ipk = 3.55;
         
         mhs1.tampilkanInformasi();
-        System.out.println("Nilai Kinerja: " + mhs1.nilaiKinerja());
         mhs1.ubahKelas("SI 2H");
         mhs1.updateIPK(3.69);
         mhs1.tampilkanInformasi();
