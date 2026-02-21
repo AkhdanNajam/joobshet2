@@ -64,6 +64,9 @@ public class mahasiswaKonstruktor {
         mahasiswaKonstruktor mhs2 = new mahasiswaKonstruktor("Annisa Nabila", "2141720160", 3.35, "TI 2I");
         mhs2.updateIPK(3.30);
         mhs2.tampilkanInformasi();
+         mahasiswaKonstruktor mhs3 = new mahasiswaKonstruktor("najam", "254107060146", 3.99, "TI 2I");
+        mhs3.updateIPK(3.30);
+        mhs3.tampilkanInformasi();
     }
 }
         
