@@ -36,22 +36,4 @@ public class mahasiswa02 {
         }
     }
     
-    public static void main(String[] args) {
-        mahasiswa02 mhs = new mahasiswa02();
-        
-        mhs.nama = "Budi";
-        mhs.nim = "123456";
-        mhs.Kelas = "IF-1A";
-        mhs.ipk = 3.5;
-        
-        mhs.tampilkanInformasi();
-        System.out.println("Nilai Kinerja: " + mhs.nilaiKinerja());
-        mhs.ubahKelas("IF-1B");
-        mhs.updateIPK(3.8);
-        mhs.tampilkanInformasi();
-        
-    }
-}
-        
-
-     
+   
